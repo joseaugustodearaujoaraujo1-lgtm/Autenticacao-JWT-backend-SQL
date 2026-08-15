@@ -1,5 +1,4 @@
 <div align="center">
-<img src="./assets/code-terminal.gif" width="100%" alt="Terminal futurista animado do backend">
 <h1>🔐 Backend de Autenticação MVC</h1>
 <h2>⚠️ Autenticação 100% desenvolvida à mão</h2>
 <p>Todos os fluxos foram implementados diretamente na API, sem Firebase, Auth0, Clerk ou outro serviço pronto de autenticação.</p>
